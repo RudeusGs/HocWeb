@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Projects\HocWeb\HocWeb-Be\HocWeb.Api\bin\Release\net8.0\publish\</_PublishTargetUrl>
+    <History>True|2024-07-10T13:24:40.2501682Z;True|2024-07-10T20:20:22.9783876+07:00;True|2024-07-10T20:16:43.5071090+07:00;True|2024-07-10T19:59:24.5011087+07:00;True|2024-07-10T19:43:43.3644872+07:00;True|2024-06-20T20:19:00.3266772+07:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
